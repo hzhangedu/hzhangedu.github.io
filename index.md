@@ -38,7 +38,7 @@ Prior to this, I earned a master's degree in Computer Science and a bachelor's d
 <!-- - <a href="https:///ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> -->
 <br>
 
-## Contact me
+## Contact
 - **Email:** zhangheg@connect.hku.hk
 - **Phone:** (+852) 64784660
 
