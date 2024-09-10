@@ -10,6 +10,24 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/kmel2024.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SYSTEM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="author">Yuhan Liu,<strong>Heng Zhang</strong>, Meilin Jiang, Minhong Wang (2024)</div>
+    <div class="title"><a>A systematic review of research on emotional artificial intelligence in English language education</a></div>
+    <div class="periodical"><em>System (Q1, IF: 4.9)</em></div>
+    <div class="links">
+      <a href="assets/files/system_2024.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
+      <a href="https://doi.org/10.1016/j.system.2024.103478" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/kmel2024.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">KM&EL</abbr>
   </div>
 
