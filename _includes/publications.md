@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="author">Yuhan Liu,<strong>Heng Zhang</strong>, Meilin Jiang, Minhong Wang (2024)</div>
+    <div class="author">Yuhan Liu, <strong>Heng Zhang</strong>, Meilin Jiang, Minhong Wang (2024)</div>
     <div class="title"><a>A systematic review of research on emotional artificial intelligence in English language education</a></div>
     <div class="periodical"><em>System (Q1, IF: 4.9)</em></div>
     <div class="links">
