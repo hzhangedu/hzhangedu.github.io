@@ -7,7 +7,6 @@
 
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/kmel2024.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SYSTEM</abbr>
@@ -23,9 +22,11 @@
     </div>
   </div>
 </div>
+</li>
 
+
+<li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/kmel2024.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">KM&EL</abbr>
