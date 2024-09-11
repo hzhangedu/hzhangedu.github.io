@@ -3,8 +3,8 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a> System (IF: 4.9)</a></li>
-  <li><a> Knowledge Management & E-Learning (IF: 2.5)</a></li>
+  <li><a> System</a></li>
+  <li><a> Knowledge Management & E-Learning</a></li>
 
 </ul>
 
