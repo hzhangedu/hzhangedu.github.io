@@ -161,7 +161,7 @@ Our project uses the source code from the following repositories:
 
 ## Acknowledgements
 
-This project refer source code from the following repositories:
+This project refer source from the following repositories:
 
 * [minimal-light theme](https://github.com/yaoyao-liu/minimal-light.git)
 
