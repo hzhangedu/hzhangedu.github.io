@@ -1,4 +1,4 @@
-url: "zhanghengedu.github.io"
+url: "hzhangedu.github.io"
 # baseurl: /zhanghengedu.github.io
 # Basic Information 
 title: Heng ZHANG
@@ -18,9 +18,9 @@ address_link: https://maps.app.goo.gl/ukDdSk4nNdp7V7Rk7
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: academic personal homepage
-description: academic personal homepage.
-canonical: https://zhanghengedu.github.io
+keywords: personal homepage
+description: personal homepage.
+canonical: https://hzhangedu.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -50,8 +50,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
