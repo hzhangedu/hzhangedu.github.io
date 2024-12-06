@@ -11,10 +11,9 @@ Prior to this, I earned a master's degree in Computer Science and a bachelor's d
 
 
 ## Research Interests
-- Learning technologies for cognitive development;
+- Cognitive developmental processes in complex domain learning;
 - Online learning design and analysis;
 - Creative thinking and learning emotions;
-- Knowledge management and visualization.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
