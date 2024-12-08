@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I'm a Ph.D. candidate at the Faculty of Education, <a href="https://www.hku.hk/" target="_blank"> The University of Hong Kong (HKU)</a>,
-working under the mentorship of Professor<a href="https://web.edu.hku.hk/faculty-academics/magwang" target="_blank"> Minhong (Maggie) Wang</a>. I am committed to understand and improve the processes and outcomes of technology-enhanced learning.
+working under the mentorship of Professor<a href="https://web.edu.hku.hk/faculty-academics/magwang" target="_blank"> Minhong (Maggie) Wang</a>. My research expertise is learning sciences. I am committed to understand and improve the processes and outcomes of technology-enhanced learning.
 
 Prior to this, I earned a master's degree in Computer Science and a bachelor's degree in Software Engineering.
 
