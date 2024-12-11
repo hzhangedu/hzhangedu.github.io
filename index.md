@@ -12,7 +12,7 @@ Prior to this, I earned a master's degree in Computer Science and a bachelor's d
 
 ## Research Interests
 - Learning technologies for cognitive development;
-- Emotional states during learning;
+- Emotions in the learning process;
 - Complex domain learning and problem solving.
 
 <!-- {% include_relative _includes/publications.md %} -->
