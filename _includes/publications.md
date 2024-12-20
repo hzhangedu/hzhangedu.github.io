@@ -33,7 +33,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="author"><strong>Heng Zhang</strong> & Minhong Wang (2024)</div>
     <div class="title"><a>A novel deep learning model to improve the recognition of students’ facial expressions in online learning environments</a></div>
-    <div class="periodical"><em>Knowledge Management & E-Learning</em> <a>Q1, IF: 2.5)</a></div>
+    <div class="periodical"><em>Knowledge Management & E-Learning</em> <a>(Q1, IF: 2.5)</a></div>
     <div class="links">
       <a href="assets/files/kmel_240319.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Download</a>
       <a href="https://eric.ed.gov/?id=EJ1420460" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
