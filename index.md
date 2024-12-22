@@ -11,7 +11,7 @@ Prior to this, I earned a master's degree in Computer Science and a bachelor's d
 
 
 ## Research Interests
-- technology-enhanced learning.
+- Technology-enhanced learning.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
